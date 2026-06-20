@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "url_20260620_f7a3c5",
+    "userId": "phhai",
+    "createdAt": "2026-06-20T08:31:50.955Z",
+    "updatedAt": "2026-06-20T08:31:50.955Z",
+    "url": "[https://www.youtube.com/watch?v=3bcngLz1rYg&t=1353s](https://www.youtube.com/watch?v=3bcngLz1rYg&t=1353s)",
+    "title": "Real Japanese for Izakaya Practice",
+    "description": "YouTube lesson for practicing real Japanese used at izakaya through shadowing and role play, with repeated sentence explanations for easier learning.",
+    "platform": "youtube",
+    "type": "video",
+    "category": "learning",
+    "tags": [
+      "japanese",
+      "izakaya",
+      "shadowing",
+      "roleplay",
+      "listening",
+      "speaking"
+    ],
+    "status": "active",
+    "sourceFolder": "storage/phhai/youtube",
+    "note": "Creator explains sentences patiently and repeatedly.",
+    "favorite": false,
+    "requestedPlatform": "youtube",
+    "readmeFile": "07a1b580acf966cae9ff.md",
+    "readmePath": "storage/phhai/youtube/readmes/07a1b580acf966cae9ff.md",
+    "searchText": "real japanese for izakaya practice youtube lesson for practicing real japanese used at izakaya through shadowing and role play, with repeated sentence explanations for easier learning. [https://www.youtube.com/watch?v=3bcnglz1ryg&t=1353s](https://www.youtube.com/watch?v=3bcnglz1ryg&t=1353s) youtube video learning japanese izakaya shadowing roleplay listening speaking"
+  }
+]
