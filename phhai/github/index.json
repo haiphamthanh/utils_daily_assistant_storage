@@ -1,5 +1,33 @@
 [
   {
+    "id": "url_20260620_dfbb94",
+    "userId": "phhai",
+    "createdAt": "2026-06-20T18:28:19.635Z",
+    "updatedAt": "2026-06-20T18:28:19.635Z",
+    "url": "[https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)",
+    "title": "Public APIs Repository",
+    "description": "Community-curated GitHub repository listing public APIs across many domains for building products and exploring API integrations.",
+    "platform": "github",
+    "type": "repo",
+    "category": "development",
+    "tags": [
+      "api",
+      "public-api",
+      "github",
+      "development",
+      "integration",
+      "reference"
+    ],
+    "status": "active",
+    "sourceFolder": "storage/phhai/github",
+    "note": "Large community-managed API reference list.",
+    "favorite": false,
+    "requestedPlatform": "github",
+    "readmeFile": "836102e3de32cde6dea6.md",
+    "readmePath": "storage/phhai/github/readmes/836102e3de32cde6dea6.md",
+    "searchText": "public apis repository community-curated github repository listing public apis across many domains for building products and exploring api integrations. [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis) github repo development api public-api github development integration reference"
+  },
+  {
     "id": "url_20260620_e603e1",
     "userId": "phhai",
     "createdAt": "2026-06-20T07:35:42.956Z",
