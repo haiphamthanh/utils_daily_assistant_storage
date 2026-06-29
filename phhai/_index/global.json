@@ -1,5 +1,35 @@
 [
   {
+    "id": "url_20260628_222323",
+    "userId": "phhai",
+    "createdAt": "2026-06-28T14:22:06.036Z",
+    "updatedAt": "2026-06-28T14:22:06.036Z",
+    "url": "N/A",
+    "title": "Insight Companion Project Idea",
+    "description": "Project idea for building a simple Node.js and Express website that acts as a personalized AI learning companion, helping users ask questions, check understanding, discover knowledge gaps, receive follow-up suggestions, and store learning history.",
+    "platform": "idea",
+    "type": "reference",
+    "category": "project",
+    "tags": [
+      "insight-companion",
+      "ai-learning",
+      "nodejs",
+      "express",
+      "personalization",
+      "knowledge-gap",
+      "hackday",
+      "project-idea"
+    ],
+    "status": "active",
+    "sourceFolder": "storage/phhai/idea",
+    "note": "Requires clean component-based code structure, simple maintainable architecture, and a final report covering architecture and usage.",
+    "favorite": true,
+    "requestedPlatform": "idea",
+    "readmeFile": "6cfdfd235a13eba36b23.md",
+    "readmePath": "storage/phhai/idea/readmes/6cfdfd235a13eba36b23.md",
+    "searchText": "insight companion project idea project idea for building a simple node.js and express website that acts as a personalized ai learning companion, helping users ask questions, check understanding, discover knowledge gaps, receive follow-up suggestions, and store learning history. n/a idea reference project insight-companion ai-learning nodejs express personalization knowledge-gap hackday project-idea"
+  },
+  {
     "id": "url_20260620_e603e1",
     "userId": "phhai",
     "createdAt": "2026-06-20T07:35:42.956Z",
